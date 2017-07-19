@@ -1,5 +1,5 @@
-## This is a build version of [Microsoft/FFmpegInterop](https://github.com/Microsoft/FFmpegInterop) that it contains Windows x86/x64 based FFmpeg lib and a executable UWP media player.
-## I've opened DXVA so that hardware(GPU) acceleration is enabled for video decoding.
+### This is a build version of [Microsoft/FFmpegInterop](https://github.com/Microsoft/FFmpegInterop) that it contains Windows x86/x64 based FFmpeg lib and a executable UWP media player.
+### I've opened DXVA so that hardware(GPU) acceleration is enabled for video decoding.
 
 # FFmpegInterop library for Windows
 
