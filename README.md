@@ -1,3 +1,6 @@
+## This is a build version of [Microsoft/FFmpegInterop](https://github.com/Microsoft/FFmpegInterop) that it contains a executable UWP media player.
+## I've opened DXVA so that hardware(GPU) acceleration is enabled for video decoding.
+
 # FFmpegInterop library for Windows
 
 #### This project is licensed from Microsoft under the [Apache 2.0 License](http://www.apache.org/licenses/LICENSE-2.0)
